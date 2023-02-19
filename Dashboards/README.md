@@ -4,7 +4,7 @@
 
 Необходимо построить базовые дашборды, которые покрывают собой ключевые аудиторные метрики и ключевые события нашего продукта. 
 
-1. основной дашборд за прошлое время ([1](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/feed_and_messenger_1.png) и [2](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/feed_and_messenger_2.png));
+1. [основной дашборд за прошлое время](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/feed_and_messenger_2.png) + [Heatmap с активностью пользователей по дням / часам](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/feed_and_messenger_1.png);
 2. [оперативный дашборд с графиками за сегодняшний день](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/real_time_news_feed.png)
 
 

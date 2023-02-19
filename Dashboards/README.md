@@ -4,15 +4,15 @@
 
 Необходимо построить базовые дашборды, которые покрывают собой ключевые аудиторные метрики и ключевые события нашего продукта. 
 
-- основной дашборд за прошлое время
-- оперативный дашборд с графиками за сегодняшний день
+1. основной дашборд за прошлое время ([1](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/feed_and_messenger_1.png) и [2](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/feed_and_messenger_2.png));
+2. [оперативный дашборд с графиками за сегодняшний день](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/real_time_news_feed.png)
 
 
 Вашей второй задачей будет составить дашборд, который описывает взаимодействие двух сервисов — ленты и сообщений. 
 
 Постарайтесь при помощи дашборда ответить на следующие вопросы:
 
-1.  Какая у нашего приложения активная аудитория по дням, т.е. пользователи, которые пользуются и лентой новостей, и сервисом сообщений. 
+1.  [Какая у нашего приложения активная аудитория по дням, т.е. пользователи, которые пользуются и лентой новостей, и сервисом сообщений.](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/feed_and_messenger_1.png) 
 
-2.  Сколько пользователей использует только ленту новостей и не пользуются сообщениями.   
+2.  [Сколько пользователей использует только ленту новостей и не пользуются сообщениями.](https://github.com/alexander-tereshin/Karpov.Courses/blob/main/Dashboards/feed_and_messenger_2.png)   
 

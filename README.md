@@ -10,7 +10,7 @@ This repo contains the projects I have completed during Data Analyst Simulator C
 2. [Product Metrics Analysis](https://github.com/alexander-tereshin/Karpov.Courses/tree/main/product_metrics_analysis)
 3. [A/B tests](https://github.com/alexander-tereshin/Karpov.Courses/tree/main/AB_testing)
 4. [ETL Pipline](https://github.com/alexander-tereshin/Karpov.Courses/tree/main/ETL_pipline)
-5. [Reporting Automation](https://github.com/alexander-tereshin/Karpov.Courses/tree/main/reporting_automation)
+5. [Reporting Automation](https://github.com/alexander-tereshin/Karpov.Courses/tree/main/Reporting_automation)
 
 ## Stack:
 - Python
